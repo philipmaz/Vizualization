@@ -1,1 +1,1 @@
-# This respository presents my training examples considering visualisation of different data sets using matplotlib and seaborn libraries.
+# This respository presents my training examples considering visualisations of different data sets using matplotlib and seaborn libraries.
